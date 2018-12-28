@@ -1,0 +1,6 @@
+[package]
+name = "bounded-random-walks"
+version = "0.1.0"
+authors = ["Matthias Heinz <heinz.matthias.3@gmail.com>"]
+
+[dependencies]
